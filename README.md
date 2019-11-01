@@ -1,3 +1,3 @@
-# Hi there
+# Hi there.
 # Welcome to zabaning!
 # Come soon ...
